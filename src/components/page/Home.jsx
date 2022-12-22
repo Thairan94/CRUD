@@ -40,8 +40,8 @@ export default function Home() {
         ))}
         
       </List>
+          <p>Para editar, clique no texto. ☝️</p>
     </Container>
-
       </>      
         
     )
@@ -52,6 +52,5 @@ const Content = styled.div`
 `
 const Title = styled.h3`
   font-size: 20px;
-  text-align: center;
-  
+  text-align: center;  
 `
