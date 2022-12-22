@@ -40,7 +40,7 @@ export default function Home() {
         ))}
         
       </List>
-          <p>Para editar, clique no texto. ☝️</p>
+          <p>Para editar, clique no texto.☝️</p>
     </Container>
       </>      
         
